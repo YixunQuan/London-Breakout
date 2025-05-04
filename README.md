@@ -37,7 +37,7 @@ This strategy executes breakout trades based on the 08:00–16:00 (GMT+8) Tokyo 
 
 This strategy has been forward-tested in **MetaTrader 5** and demonstrated:
 
-* 🏆 **Win Rate**: >80% in favorable market conditions
+* 🏆 **Win Rate**: backtest 3 years had over >80% in favorable market conditions
 * ⚠️ **Drawdown**: Can be significant during volatility, depends on the lot size; one dropdown could eat up 30 wins profit.
 * 📉 **Profit Factor**: Low per-trade profit, sensitive to position sizing and news events
 
@@ -46,7 +46,7 @@ This strategy has been forward-tested in **MetaTrader 5** and demonstrated:
 ---
 
 ## 📈 Backtest Summary
-
+* Time range: 2 months
 * Start Account: 100000
 * Total Trades: 34
 * Win Rate: 64.71%
